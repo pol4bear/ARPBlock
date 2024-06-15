@@ -7,4 +7,36 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Light Theme Colors -->
+    <color name="primary_light">#6200EE</color>
+    <color name="on_primary_light">#FFFFFF</color>
+    <color name="primary_container_light">#BB86FC</color>
+    <color name="on_primary_container_light">#3700B3</color>
+    <color name="secondary_light">#03DAC6</color>
+    <color name="on_secondary_light">#000000</color>
+    <color name="secondary_container_light">#018786</color>
+    <color name="on_secondary_container_light">#FFFFFF</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="on_background_light">#000000</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="on_surface_light">#000000</color>
+    <color name="error_light">#B00020</color>
+    <color name="on_error_light">#FFFFFF</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark">#BB86FC</color>
+    <color name="on_primary_dark">#000000</color>
+    <color name="primary_container_dark">#6200EE</color>
+    <color name="on_primary_container_dark">#FFFFFF</color>
+    <color name="secondary_dark">#03DAC6</color>
+    <color name="on_secondary_dark">#000000</color>
+    <color name="secondary_container_dark">#03DAC6</color>
+    <color name="on_secondary_container_dark">#000000</color>
+    <color name="background_dark">#121212</color>
+    <color name="on_background_dark">#FFFFFF</color>
+    <color name="surface_dark">#121212</color>
+    <color name="on_surface_dark">#FFFFFF</color>
+    <color name="error_dark">#CF6679</color>
+    <color name="on_error_dark">#000000</color>
 </resources>
